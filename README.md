@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/dalvarezce/dalvarezce/blob/main/Banner%20Github.png" width="800"/>
+  <img decoding="async" src="https://github.com/dalvarezce/dalvarezce/blob/![Image](https://github.com/user-attachments/assets/b9d9c9b2-2ee0-47fe-aa8d-5db61c14ba64)" width="800"/>
 </div>
 <!--
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-álvarez-ceballos-b9889b37b/
