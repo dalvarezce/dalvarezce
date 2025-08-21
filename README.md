@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div id="header" align="center">
   <img decoding="async" src=["https://github.com/dalvarezce/dalvarezce/blob/![Image](https://github.com/user-attachments/assets/b9d9c9b2-2ee0-47fe-aa8d-5db61c14ba64)" width="800"/>](https://github.com/dalvarezce/dalvarezce/issues/1#issue-3342288608)
 </div>
