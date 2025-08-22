@@ -10,6 +10,5 @@
 - 👨🏻‍💻 En este momento trabajo como auxiliar administrativo pero estoy deseoso de hacer una transición laboral al mundo tecnológico
 - 📗 Productor de audio graduado en 2024 y estudiante de Ingeniería Industrial
 - 👤 Mi perfil de [LinkedIn](www.linkedin.com/in/daniel-álvarez-ceballos-b9889b37b)
-- 🙋‍♂️❓Preguntame lo que quieras <a href=""><b>here</b></a><br>
-  o <a href="mailto:dalvarez1113@gmail.com"><b>email</b></a> escribeme un correo
+- 🙋‍♂️❓Preguntame lo que quieras <a href="mailto:dalvarez1113@gmail.com"><b>email</b></a> 
 
