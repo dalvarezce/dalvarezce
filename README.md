@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Daniel Alvarez
 </div>
-<img src="https://github.com/user-attachments/assets/ea564497-6e7e-4db8-962c-3168f1dbcd22">
+<img src="https://github.com/user-attachments/assets/d9ba7cb9-26c4-4210-a94a-347703de21dc">
 
 
 ## Sobre mi
