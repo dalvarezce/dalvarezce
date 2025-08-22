@@ -9,6 +9,6 @@
 - ⭐ QA Engineer Jr ⭐ 
 - 👨🏻‍💻 En este momento trabajo como auxiliar administrativo pero estoy deseoso de hacer una transición laboral al mundo tecnológico
 - 📗 Productor de audio graduado en 2024 y estudiante de Ingeniería Industrial
-- 👤 Mi perfil de [LinkedIn](www.linkedin.com/in/daniel-álvarez-ceballos-b9889b37b)
+- 👤 Mi perfil de [[LinkedIn](https://www.linkedin.com/in/daniel-%C3%A1lvarez-ceballos-b9889b37b/))
 - 🙋‍♂️❓Preguntame lo que quieras <a href="mailto:dalvarez1113@gmail.com"><b>email</b></a> 
 
