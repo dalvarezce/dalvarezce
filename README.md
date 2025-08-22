@@ -1,45 +1,107 @@
+<div align="center">
+<h1 align="center">Hola, soy Daniel Alvarez
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-[<div id="header" align="center">
-  <img decoding="async" src=["https://github.com/dalvarezce/dalvarezce/blob/![Image](https://github.com/user-attachments/assets/b9d9c9b2-2ee0-47fe-aa8d-5db61c14ba64)" width="800"/>](https://github.com/dalvarezce/dalvarezce/issues/1#issue-3342288608)
-</div>](https://github.com/dalvarezce/dalvarezce/issues/2#issue-3342317831)](https://github.com/dalvarezce/dalvarezce/issues/2#issue-3342317831)
-<!--
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-álvarez-ceballos-b9889b37b/
-**dalvarezce/dalvarezce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
----
- <div id="header" align="left">
- 
- ### :man_technologist: Sobre mí :  
- Me gusta mucho la tecnología y el todo lo que tenga que ver con el desarrollo de la misma, actualmente estyoy haciendo una transición para ejercer como QA Tester <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Sobre mi
 
-* :telescope: Actualmente estoy trabajando como auxiliar administrativo en Yarumal Antioquia pero necesito nuevos retos :muscle:
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+110k subs)
+- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. También considero que es importante seguir capacitandose, por eso me encuentro haciendo un pregrado en Ingeniería Industrial.
+## Proyectos *bombitas*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Básico</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>
 
-* :heartbeat: Me apasiona buscar nuevas formas para hacer mejor mi trabajo
+<td width="50%">
+               <br>
+<h3 align="center">Arquitectura MVVM</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https:///www.linkedin.com/in/daniel-álvarez-ceballos-b9889b37b/)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Intermedio</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>       
 
----
+<td width="50%">
+<h3 align="center">Curso Kotlin Multiplatform</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### ⚙️ &nbsp;GitHub Analytics
 
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-
-  </div>
-   Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
