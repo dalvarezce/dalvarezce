@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Daniel Alvarez
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://github.com/user-attachments/assets/ea564497-6e7e-4db8-962c-3168f1dbcd22">
 
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![LinkedIn Status](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Flinkedin-adding-symbols-bullets-your-profile-kerry-gustafson-cprw&psig=AOvVaw3lOUVmrp44RFBz09Ual_6o&ust=1755961619888000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj2rvrYno8DFQAAAAAdAAAAABAE)](www.linkedin.com/in/daniel-álvarez-ceballos-b9889b37b)
 
 
 ## Sobre mi
